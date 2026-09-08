@@ -1,0 +1,4 @@
+# "Exercises" to drop entirely: summary / PR-highlight blocks some apps emit as if they were exercises.
+PRs
+Timed PRs
+Activity PRs

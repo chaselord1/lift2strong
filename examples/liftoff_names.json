@@ -1,0 +1,16 @@
+{
+  "_comment": "Rename map: exercise names Liftoff's Strong importer did not recognize -> Liftoff's own names (so they get muscle data). Edit for your app.",
+  "Barbell Forearm Curl Behind the Back": "Wrist Curl",
+  "behind the back cable lateral raise": "Cable Lateral Raise",
+  "Body Weight Squat": "Bodyweight Squat",
+  "Cable Diverging Lat Pulldown": "Lat Pulldown",
+  "Cable Lat Pull Through": "Straight Arm Pulldown",
+  "Cable Seated Lateral Pull Down": "Lat Pulldown",
+  "Decline Oblique Situp": "Side Crunch",
+  "Dumbbell Calf Raises": "Dumbbell Calf Raise",
+  "Dumbbell Low to High Chest Fly": "Dumbbell Fly",
+  "Dumbbell Romanian Deadlift (RDL)": "Dumbbell Romanian Deadlift",
+  "Inclined Leg Press Machine": "Sled Leg Press",
+  "Rear Deltoid Fly Machine": "Machine Reverse Fly",
+  "Standing Leg Curl Machine": "Standing Leg Curl"
+}

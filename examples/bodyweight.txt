@@ -1,0 +1,26 @@
+# Exercises written with weight 0. Use when your old app logged bodyweight-inclusive load
+# (e.g. "Pull Ups 150 lbs") but the new app expects added weight only. One name per line,
+# matched AFTER the rename map is applied.
+Dips
+Tricep Dips
+Pull Ups
+Wide Grip Pull Up
+Neutral Grip Pull Ups
+Chin Up
+Push Ups
+Incline Push Up
+Muscle Up
+Scapular Pulls
+Hanging Knee Raise
+Decline Sit Up
+Sit Ups
+Side Crunch
+Russian Twist
+Planks
+Handstand
+Sissy Squats
+Pistol Squat
+Bodyweight Squat
+Calf Raises
+Standing Calf Raise
+Dumbbell Calf Raise
